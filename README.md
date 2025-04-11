@@ -2,7 +2,7 @@
 
 Submitted by: Ember Zhang
 
-PersonalBio is an app that displays your personal bio details on an array of fun background colors.
+PersonalBio is an app that displays your personal bio details, accented upon a background of fun randomized colors.
 
 Time spent: 3 hours spent in total.
 
