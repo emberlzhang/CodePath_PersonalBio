@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 [Loom Video Demo of My Application!](https://www.loom.com/share/47cc289f343f4085bb11395c55b3a57a?sid=a9eb9acc-0a37-46e1-aeeb-f1864dc83e4b)
 
-![](https://i.imgur.com/a/0FP4AFB.gif)
+![](https://i.imgur.com/qQlx7UO.gif))
+
 
 ## Notes
 
