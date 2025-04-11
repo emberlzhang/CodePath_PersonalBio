@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 
 [Loom Video Demo of My Application!](https://www.loom.com/share/47cc289f343f4085bb11395c55b3a57a?sid=a9eb9acc-0a37-46e1-aeeb-f1864dc83e4b)
 
+![](https://imgur.com/a/0FP4AFB.gif)
+
 ## Notes
 
 One minor challenge was encountered in identifying the "Assistant" capability, which was found under Editor tab instead of via the given written instructions.
